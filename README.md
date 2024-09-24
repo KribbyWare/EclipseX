@@ -20,7 +20,7 @@
 
 <a name="themetutorial"></a><h1 align="center">Create your own theme</h1>
 
-- Go to `%appdata%\Celery\Themes`, you can do this by pressing `Windows Key + R` and typing `%appdata%\UniversalSynX\Themes`
+- Go to `%appdata%\UniversalSynX\Themes`, you can do this by pressing `Windows Key + R` and typing `%appdata%\UniversalSynX\Themes`
 - Create a new file and n ame it whateveryou want but make sure you have the file extension as `.xaml`
   - To set the file extension you will have to click on `View` at the top bar of file explorer and enable `File name extensions`. After that you can create a file and it will allow you to change the file extension.
 - Open the file with notepad or any other text editor of you liking and paste the following text:
