@@ -1,7 +1,7 @@
 # Universal Syn X
 
 <p>
-  <a href="https://github.com/KribbyWare/Universal-Syn-X/releases/latest"><img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/tag/KribbyWare/Universal-Syn-X?color=1f2829&label=Latest&logo=github"></a>
+  <a href="https://github.com/KribbyWare/Universal-Syn-X/releases/latest"><img alt="GitHub Release (Latest by Date)" src="https://img.shields.io/github/v/tag/KribbyWare/Universal-Syn-X?color=1f2829&label=Latest&logo=github"></a>
   <a href="https://github.com/KribbyWare/Universal-Syn-X/releases/latest"><img alt="GitHub Releases" src="https://img.shields.io/github/downloads/KribbyWare/Universal-Syn-X/latest/total?color=1f2829&label=Latest%20Downloads&logo=github"></a>
   <a href="https://github.com/KribbyWare/Universal-Syn-X/releases"><img alt="All GitHub Releases" src="https://img.shields.io/github/downloads/KribbyWare/Universal-Syn-X/total?color=1f2829&label=Total%20Downloads&logo=github"></a>
 </p>
