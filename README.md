@@ -15,7 +15,7 @@
 
 <h1 align="center">Installation</h1>
 
-* Download the [Latest Release](https://github.com/KribbyWare/Universal-Syn-X/releases/latest) and extract it to a folder with [WinRar](https://win-rar.com) or any other unzip program.
+* Download the [Latest Release]([https://github.com/KribbyWare/Universal-Syn-X/releases/latest](https://kribbyware.github.io/Universal-Syn-X/)) and extract it to a folder with [WinRar](https://win-rar.com) or any other unzip program.
 * Run `Universal Syn X.exe`
 
 <a name="themetutorial"></a><h1 align="center">Create your own theme</h1>
