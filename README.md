@@ -1,4 +1,4 @@
-# Universal Syn X
+# Eclipse X
 
 <p>
   <a href="https://github.com/KribbyWare/Universal-Syn-X/releases/latest"><img alt="GitHub Release (Latest by Date)" src="https://img.shields.io/github/v/tag/KribbyWare/Universal-Syn-X?color=1f2829&label=Latest&logo=github"></a>
@@ -9,14 +9,14 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/KribbyWare/Universal-Syn-X/master/src/themes-result/UniversalSynXUI.png" width="700">
   <p align="center">
-    A Remake of Synapse X
+    Eclipse X
   </p>
 </p>
 
 <h1 align="center">Installation</h1>
 
 * Download the [Latest Release](https://kribbyware.github.io/Universal-Syn-X) and extract it to a folder with [WinRar](https://win-rar.com) or any other unzip program.
-* Run `Universal Syn X.exe`
+* Run `Eclipse X.exe`
 
 <a name="themetutorial"></a><h1 align="center">Create your own theme</h1>
 
@@ -48,8 +48,8 @@
 ```
 - Replace {background-color}, {lightbackground-color}, etc. with the colors you want!
 - You can adjust the hex values that start with #, you can use a color picker, google has one built in which you can open by searching for `color picker` through google search.
-  - Make sure the length of the hex value is 6 long, if its 8 it means there is an extra channel for the alpha value. This is for transparency which isn't supported by Universal Syn X and will result in weird outcomes. You need to remove the first 2 characters to make it 6 long again. (For example: `#FF202020` becomes `#202020`)
-- After all that is done, restart Universal Syn X, go to settings and change the theme. It should look something like this:
+  - Make sure the length of the hex value is 6 long, if its 8 it means there is an extra channel for the alpha value. This is for transparency which isn't supported by Eclipse X and will result in weird outcomes. You need to remove the first 2 characters to make it 6 long again. (For example: `#FF202020` becomes `#202020`)
+- After all that is done, restart Eclipse X, go to settings and change the theme. It should look something like this:
 <p align="center">
   <img src="https://raw.githubusercontent.com/KribbyWare/Universal-Syn-X/master/src/themes-result/UniversalSynXUI-Theme.png" width="700">
 </p>
