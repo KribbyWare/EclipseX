@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KribbyWare/Universal-Syn-X/master/src/themes-result/UniversalSynXUI.png" width="700">
+  <img src="https://raw.githubusercontent.com/KribbyWare/EclipseX/master/src/EclipseX.jpg" width="700">
   <p align="center">
     Eclipse X
   </p>
