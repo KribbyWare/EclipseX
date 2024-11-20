@@ -1,9 +1,9 @@
 # Eclipse X
 
 <p>
-  <a href="https://github.com/KribbyWare/EclipseX/releases/latest"><img alt="GitHub Release (Latest by Date)" src="https://svgl-badge.vercel.app/api/Software/Github?theme=dark"></a>
-  <a href="https://github.com/KribbyWare/EclipseX/releases/latest"><img alt="GitHub Releases" src="https://svgl-badge.vercel.app/api/Software/Github?theme=dark"></a>
-  <a href="https://github.com/KribbyWare/EclipseX/releases"><img alt="All GitHub Releases" src="https://svgl-badge.vercel.app/api/Software/Github?theme=dark"></a>
+    <a href="https://github.com/KribbyWare/EclipseX/releases/latest"><img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/tag/KribbyWare/EclipseX?color=1f2829&label=Latest&logo=github"></a>
+  <a href="https://github.com/KribbyWare/EclipseX/releases/latest"><img alt="GitHub Releases" src="https://img.shields.io/github/downloads/KribbyWare/EclipseX/latest/total?color=1f2829&label=Latest%20Downloads&logo=github"></a>
+  <a href="https://github.com/KribbyWare/EclipseX/releases"><img alt="All GitHub Releases" src="https://img.shields.io/github/downloads/KribbyWare/EclipseX/total?color=1f2829&label=Total%20Downloads&logo=github"></a>
 </p>
 
 <p align="center">
