@@ -27,14 +27,14 @@
 ```xaml
 <ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
                     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
-    <Color x:Key="BackgroundColor">{background-color}</Color>
-    <Color x:Key="LightBackgroundColor">{lightbackground-color}</Color>
-    <Color x:Key="HighlightColor">{highlight-color}</Color>
-    <Color x:Key="BorderColor">{border-color}</Color>
-    <Color x:Key="LightBorderColor">{lightborder-color}</Color>
-    <Color x:Key="DarkForegroundColor">{darkforeground-color}</Color>
-    <Color x:Key="ForegroundColor">{foreground-color}</Color>
-    <Color x:Key="LogoColor">{logo-color}</Color>
+    <Color x:Key="BackgroundColor">#e6e9ef</Color>
+    <Color x:Key="LightBackgroundColor">#eff1f5</Color>
+    <Color x:Key="HighlightColor">#ccd0da</Color>
+    <Color x:Key="BorderColor">#bcc0cc</Color>
+    <Color x:Key="LightBorderColor">#acb0be</Color>
+    <Color x:Key="DarkForegroundColor">#5c5f77</Color>
+    <Color x:Key="ForegroundColor">#4c4f69</Color>
+    <Color x:Key="LogoColor">#fff</Color>
 
     <SolidColorBrush x:Key="BackgroundBrush" Color="{StaticResource BackgroundColor}"/>
     <SolidColorBrush x:Key="LightBackgroundBrush" Color="{StaticResource LightBackgroundColor}"/>
